@@ -43,3 +43,21 @@ border-radius: 30px;
  .chinese { 
 font-size: 22px;
  }
+
+/* resposive Stlying */
+
+@media (max-width: 991px) { 
+
+.col-md-3 {
+
+	padding-top: 15px;
+	padding-bottom: 41px;}
+
+ }
+
+ .img-responsive {
+
+
+ text-align: center;
+
+}
